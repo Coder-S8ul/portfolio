@@ -17,7 +17,7 @@ function Projects() {
           className=" flex rounded-2xl items-center transition-all duration-300 bg-headShade/5 tablet:bg-inherit hover:bg-headShade/5 group"
         >
           <img
-            src="/pics/projects/project1.png"
+            src="./pics/projects/project1.png"
             className=" border-2 w-24 tablet:w-36 laptop-md:w-48 border-orange-500 rounded-xl m-3 tablet:m-4"
             alt="Project 1"
           />

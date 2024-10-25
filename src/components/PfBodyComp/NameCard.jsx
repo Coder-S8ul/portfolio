@@ -8,7 +8,7 @@ function NameCard() {
     <div className="">
       <div className=" mx-5 laptop-md:sticky laptop-md:top-20 flex flex-col justify-center items-center bg-white tablet:mx-20 laptop-md:mx-3 tablet:my-5 rounded-2xl">
         <img
-          src="/pics/pfp.jpg"
+          src="./pics/pfp.jpg"
           className=" w-52 h-52 rounded-2xl mt-8 tablet:mt-10 object-cover"
           alt="My Logo"
         ></img>
